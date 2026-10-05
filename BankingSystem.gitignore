@@ -1,0 +1,8 @@
+target/
+*.db
+*.db-shm
+*.db-wal
+.idea/
+nbproject/private/
+.vscode/
+.DS_Store
